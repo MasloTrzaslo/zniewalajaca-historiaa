@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Masło Trzasło</title>
+</head>
+<body>
+	<h1>historyjka</h1>
+	<p>Pewnego dnia, masło trzasło.<p>
+
+</body>
+</html>
